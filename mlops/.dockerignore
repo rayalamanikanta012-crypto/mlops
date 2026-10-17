@@ -1,0 +1,17 @@
+.git
+.gitignore
+.venv
+venv
+env
+__pycache__
+*.pyc
+.pytest_cache
+.idea
+.vscode
+.env
+key.pem
+tests
+models/*.joblib
+Dockerfile
+.dockerignore
+README.md
